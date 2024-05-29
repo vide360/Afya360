@@ -3,20 +3,20 @@
 ## Action
 
 ### URL
+LinkBehaviour_88BA4523_C02C_8242_41E4_C5981082F6A0.source = https://paraiba.afya.com.br/
 LinkBehaviour_808098DB_C05C_83C2_41E6_E0D4F89681BE.source = https://paraiba.afya.com.br/
 LinkBehaviour_D6538131_C18C_BC63_41C5_63E8F111745D.source = https://paraiba.afya.com.br/
-LinkBehaviour_88BA4523_C02C_8242_41E4_C5981082F6A0.source = https://paraiba.afya.com.br/
+LinkBehaviour_84B22A35_C053_8647_41D7_9EA249F0F301.source = https://wa.me/558331420716
 LinkBehaviour_88B80519_C02C_824E_41E4_F0D2941DD591.source = https://wa.me/558331428716
 LinkBehaviour_D64B512C_C18C_BC61_41E6_28B0BA707135.source = https://wa.me/558331428716
-LinkBehaviour_84B22A35_C053_8647_41D7_9EA249F0F301.source = https://wa.me/558331428716
-LinkBehaviour_88B84519_C02C_824E_41E7_19E68E1E4803.source = https://www.facebook.com/afya.paraiba/
-LinkBehaviour_D64F5124_C18C_BC61_41DE_67AE767E9087.source = https://www.facebook.com/afya.paraiba/
 LinkBehaviour_855F9897_C05F_8242_41B9_02D8B3E4DC15.source = https://www.facebook.com/afya.paraiba/
-LinkBehaviour_D64E212F_C18C_BC7F_41E4_43C3ADEE0239.source = https://www.google.com/maps/place/AFYA+Para%C3%ADba+%2F+FCMPB/@-7.0447247,-34.8481124,15z/data=!4m6!3m5!1s0x7acdf861cbb62c9:0x4a1d05b6faf6ed34!8m2!3d-7.0447247!4d-34.8481124!16s%2Fg%2F11c3kzh364?entry=ttu
+LinkBehaviour_D64F5124_C18C_BC61_41DE_67AE767E9087.source = https://www.facebook.com/afya.paraiba/
+LinkBehaviour_88B84519_C02C_824E_41E7_19E68E1E4803.source = https://www.facebook.com/afya.paraiba/
 LinkBehaviour_88B8F51C_C02C_8246_41D8_EA787514EEF5.source = https://www.google.com/maps/place/AFYA+Para%C3%ADba+%2F+FCMPB/@-7.0447247,-34.8481124,15z/data=!4m6!3m5!1s0x7acdf861cbb62c9:0x4a1d05b6faf6ed34!8m2!3d-7.0447247!4d-34.8481124!16s%2Fg%2F11c3kzh364?entry=ttu
+LinkBehaviour_D64E212F_C18C_BC7F_41E4_43C3ADEE0239.source = https://www.google.com/maps/place/AFYA+Para%C3%ADba+%2F+FCMPB/@-7.0447247,-34.8481124,15z/data=!4m6!3m5!1s0x7acdf861cbb62c9:0x4a1d05b6faf6ed34!8m2!3d-7.0447247!4d-34.8481124!16s%2Fg%2F11c3kzh364?entry=ttu
 LinkBehaviour_837DA587_C057_8243_41E6_9B1C3318C669.source = https://www.google.com/maps/place/AFYA+Para%C3%ADba+%2F+FCMPB/@-7.0447247,-34.8481124,15z/data=!4m6!3m5!1s0x7acdf861cbb62c9:0x4a1d05b6faf6ed34!8m2!3d-7.0447247!4d-34.8481124!16s%2Fg%2F11c3kzh364?entry=ttu
-LinkBehaviour_88B8B518_C02C_824E_41D2_29AF5F85458A.source = https://www.instagram.com/afya.paraiba/
 LinkBehaviour_83E2945E_C05C_82C2_41C9_597375C48F31.source = https://www.instagram.com/afya.paraiba/
+LinkBehaviour_88B8B518_C02C_824E_41D2_29AF5F85458A.source = https://www.instagram.com/afya.paraiba/
 LinkBehaviour_D6490123_C18C_BC67_41DF_6851A004BB33.source = https://www.instagram.com/afya.paraiba/
 LinkBehaviour_FE030024_C054_8245_41A5_E571C4CC543F.source = https://www.youtube.com/@AfyaParaiba
 LinkBehaviour_88B9D51A_C02C_8242_41DD_6A4B2B2D44E7.source = https://www.youtube.com/@AfyaParaiba
@@ -38,6 +38,15 @@ audiores_84D67619_C074_8E4F_41DD_A4A741545A46.mp3Url = media/audio_82E54090_C074
 imlevel_8E3B0E9A_C0D2_7BB9_41E7_4E4E47658F71.url = media/panorama_AAF46587_B764_1382_41DF_D771E3D9B4E3_HS_tzrkubgm_pt.png
 
 ### Title
+album_D08877B8_C425_804D_41CD_6775C77957EB_0.label = 01
+album_D08877B8_C425_804D_41CD_6775C77957EB_1.label = 02
+album_D08877B8_C425_804D_41CD_6775C77957EB_2.label = 03
+album_D08877B8_C425_804D_41CD_6775C77957EB_3.label = 04
+album_D08877B8_C425_804D_41CD_6775C77957EB_4.label = 05
+album_D08877B8_C425_804D_41CD_6775C77957EB_5.label = 06
+album_D08877B8_C425_804D_41CD_6775C77957EB_6.label = 07
+album_D08877B8_C425_804D_41CD_6775C77957EB_7.label = 08
+album_D08877B8_C425_804D_41CD_6775C77957EB_8.label = 09
 panorama_AAFAC899_B764_118E_41D2_062FE16D48CF.label = 1 andar APG
 panorama_A8C32958_B764_F08E_41E3_DE64EEBA66FC.label = 1 andar adm esquerda
 panorama_A44AB396_BA39_26E8_41B9_E1D0756D576F.label = 1 andar consultório
@@ -57,6 +66,7 @@ panorama_AAF78EDA_B764_3182_41D5_4D5A150B6BE1.label = 1 andar simulação homem
 panorama_AAF73E16_B764_1082_41C8_29E579FED19F.label = 1 andar simulação sl criança
 panorama_AAF7ADD5_B764_F386_41D2_4A8D1F9D59F1.label = 1 andar simulação sl01
 panorama_AAF53D01_B764_107E_41E4_0089DF0E0B51.label = 1 andar simulação sl02
+album_D08877B8_C425_804D_41CD_6775C77957EB_9.label = 10
 panorama_AAFAFBFB_B764_3782_41E0_E6D5B17462DC.label = 2 andar corredor 1
 panorama_AAF5AB88_B764_178E_41CA_422DDAA41147.label = 2 andar corredor 2
 panorama_AAFABAA5_B764_7186_41E3_79BE947A2A16.label = 2 andar corredor01
@@ -101,10 +111,11 @@ panorama_AAFF7F44_B76C_1086_41D8_8893E9099024.label = terreo frente adm
 panorama_AAFA48EF_B76B_F182_41E4_8B1A8457BCD2.label = terreo frente corredor bibiot
 panorama_AAFF8C2B_B76C_1082_41C0_E1A808D35EBE.label = terreo sala 01
 panorama_AAFAFB45_B76D_F086_41C1_B22766E63078.label = terreo sala02
+album_D08877B8_C425_804D_41CD_6775C77957EB.label = Álbum de Fotos 01
 
 ### Video
-videolevel_D8C7C54D_C18C_C420_41D6_D11B474B1F6B.posterURL = media/video_EC2C123F_C06F_8642_41D3_673B0FEAFA94_poster_pt.jpg
-videolevel_D8C7C54D_C18C_C420_41D6_D11B474B1F6B.url = media/video_EC2C123F_C06F_8642_41D3_673B0FEAFA94_pt.mp4
+videolevel_D91554D3_C47C_81DC_4193_1993E0E9CC3D.posterURL = media/video_EC2C123F_C06F_8642_41D3_673B0FEAFA94_poster_pt.jpg
+videolevel_D91554D3_C47C_81DC_4193_1993E0E9CC3D.url = media/video_EC2C123F_C06F_8642_41D3_673B0FEAFA94_pt.mp4
 
 ### Video Subtitles
 
@@ -185,7 +196,7 @@ Button_5223212C_BA07_2238_41E1_EB3BFEAF1FCF.label = Áreas de Vivência >>
 ### Image
 Image_8553BA53_C1D3_86C3_41E2_D2C3C499AD93_mobile.url = skin/Image_8553BA53_C1D3_86C3_41E2_D2C3C499AD93_mobile_pt.png
 Image_8553BA53_C1D3_86C3_41E2_D2C3C499AD93.url = skin/Image_8553BA53_C1D3_86C3_41E2_D2C3C499AD93_pt.png
-Image_8B60268A_C06F_8E4D_41D7_B8E3B535DF6C.url = skin/Image_8B60268A_C06F_8E4D_41D7_B8E3B535DF6C_pt.png
+Image_8B60268A_C06F_8E4D_41D7_B8E3B535DF6C.url = skin/Image_8B60268A_C06F_8E4D_41D7_B8E3B535DF6C_pt.gif
 Image_8D399205_C06D_8647_41E6_532638755ECB.url = skin/Image_8D399205_C06D_8647_41E6_532638755ECB_pt.gif
 Image_8ED95A7E_C05D_86C5_41AF_A6D5F14B7D6A.url = skin/Image_8ED95A7E_C05D_86C5_41AF_A6D5F14B7D6A_pt.png
 Image_BB3906AA_BA06_EE38_41C9_5C3FC1E3096D_mobile.url = skin/Image_BB3906AA_BA06_EE38_41C9_5C3FC1E3096D_mobile_pt.png

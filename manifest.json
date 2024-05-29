@@ -36,9 +36,9 @@
    "type": "image/png"
   }
  ],
- "theme_color": "#D30158",
  "display": "fullscreen",
  "start_url": "index.htm",
+ "theme_color": "#D30158",
  "name": "Afya",
  "background_color": "#D30158"
 }
