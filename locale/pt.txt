@@ -3,18 +3,24 @@
 ## Action
 
 ### URL
-LinkBehaviour_88BA4523_C02C_8242_41E4_C5981082F6A0.source = https://paraiba.afya.com.br/
 LinkBehaviour_808098DB_C05C_83C2_41E6_E0D4F89681BE.source = https://paraiba.afya.com.br/
-LinkBehaviour_84B22A35_C053_8647_41D7_9EA249F0F301.source = https://wa.me/558331428716
+LinkBehaviour_D6538131_C18C_BC63_41C5_63E8F111745D.source = https://paraiba.afya.com.br/
+LinkBehaviour_88BA4523_C02C_8242_41E4_C5981082F6A0.source = https://paraiba.afya.com.br/
 LinkBehaviour_88B80519_C02C_824E_41E4_F0D2941DD591.source = https://wa.me/558331428716
-LinkBehaviour_855F9897_C05F_8242_41B9_02D8B3E4DC15.source = https://www.facebook.com/afya.paraiba/
+LinkBehaviour_D64B512C_C18C_BC61_41E6_28B0BA707135.source = https://wa.me/558331428716
+LinkBehaviour_84B22A35_C053_8647_41D7_9EA249F0F301.source = https://wa.me/558331428716
 LinkBehaviour_88B84519_C02C_824E_41E7_19E68E1E4803.source = https://www.facebook.com/afya.paraiba/
+LinkBehaviour_D64F5124_C18C_BC61_41DE_67AE767E9087.source = https://www.facebook.com/afya.paraiba/
+LinkBehaviour_855F9897_C05F_8242_41B9_02D8B3E4DC15.source = https://www.facebook.com/afya.paraiba/
+LinkBehaviour_D64E212F_C18C_BC7F_41E4_43C3ADEE0239.source = https://www.google.com/maps/place/AFYA+Para%C3%ADba+%2F+FCMPB/@-7.0447247,-34.8481124,15z/data=!4m6!3m5!1s0x7acdf861cbb62c9:0x4a1d05b6faf6ed34!8m2!3d-7.0447247!4d-34.8481124!16s%2Fg%2F11c3kzh364?entry=ttu
 LinkBehaviour_88B8F51C_C02C_8246_41D8_EA787514EEF5.source = https://www.google.com/maps/place/AFYA+Para%C3%ADba+%2F+FCMPB/@-7.0447247,-34.8481124,15z/data=!4m6!3m5!1s0x7acdf861cbb62c9:0x4a1d05b6faf6ed34!8m2!3d-7.0447247!4d-34.8481124!16s%2Fg%2F11c3kzh364?entry=ttu
 LinkBehaviour_837DA587_C057_8243_41E6_9B1C3318C669.source = https://www.google.com/maps/place/AFYA+Para%C3%ADba+%2F+FCMPB/@-7.0447247,-34.8481124,15z/data=!4m6!3m5!1s0x7acdf861cbb62c9:0x4a1d05b6faf6ed34!8m2!3d-7.0447247!4d-34.8481124!16s%2Fg%2F11c3kzh364?entry=ttu
-LinkBehaviour_83E2945E_C05C_82C2_41C9_597375C48F31.source = https://www.instagram.com/afya.paraiba/
 LinkBehaviour_88B8B518_C02C_824E_41D2_29AF5F85458A.source = https://www.instagram.com/afya.paraiba/
-LinkBehaviour_88B9D51A_C02C_8242_41DD_6A4B2B2D44E7.source = https://www.youtube.com/@AfyaParaiba
+LinkBehaviour_83E2945E_C05C_82C2_41C9_597375C48F31.source = https://www.instagram.com/afya.paraiba/
+LinkBehaviour_D6490123_C18C_BC67_41DF_6851A004BB33.source = https://www.instagram.com/afya.paraiba/
 LinkBehaviour_FE030024_C054_8245_41A5_E571C4CC543F.source = https://www.youtube.com/@AfyaParaiba
+LinkBehaviour_88B9D51A_C02C_8242_41DD_6A4B2B2D44E7.source = https://www.youtube.com/@AfyaParaiba
+LinkBehaviour_D62D91A3_C195_FC67_41C5_1CA561634C56.source = https://www.youtube.com/@AfyaParaiba
 
 ## Hotspot
 
@@ -97,8 +103,8 @@ panorama_AAFF8C2B_B76C_1082_41C0_E1A808D35EBE.label = terreo sala 01
 panorama_AAFAFB45_B76D_F086_41C1_B22766E63078.label = terreo sala02
 
 ### Video
-videolevel_CF0898A4_C17B_CC61_41B5_26D4E6CF9D30.posterURL = media/video_EC2C123F_C06F_8642_41D3_673B0FEAFA94_poster_pt.jpg
-videolevel_CF0898A4_C17B_CC61_41B5_26D4E6CF9D30.url = media/video_EC2C123F_C06F_8642_41D3_673B0FEAFA94_pt.mp4
+videolevel_D8C7C54D_C18C_C420_41D6_D11B474B1F6B.posterURL = media/video_EC2C123F_C06F_8642_41D3_673B0FEAFA94_poster_pt.jpg
+videolevel_D8C7C54D_C18C_C420_41D6_D11B474B1F6B.url = media/video_EC2C123F_C06F_8642_41D3_673B0FEAFA94_pt.mp4
 
 ### Video Subtitles
 
